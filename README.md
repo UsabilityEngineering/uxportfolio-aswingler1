@@ -6,3 +6,5 @@
 
 ## UX Journal
 
+### My first journal entry
+
