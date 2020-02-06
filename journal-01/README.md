@@ -1,0 +1,3 @@
+# My first journal entry
+
+this is what I noticed when I tried to use my toaster...
