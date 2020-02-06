@@ -11,4 +11,4 @@
 
 ### My first journal entry
 
-{this is my first journal entry}(journal-01/)
+[this is my first journal entry](journal-01/)
