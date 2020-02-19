@@ -11,4 +11,4 @@ One simple solution for this problem is to use one of the several unused buttons
 
 
 
-![safeway gas station](https://www.savingadvice.com/wp-content/uploads/2015/09/Safeway-RC-Featured.jpg)
+![safeway gas station](https://fastly.4sqi.net/img/general/600x600/2002771_ZghW1kb761V3LLRAK8LrLVuCklVtedADPcJ1iLJ_CX0.jpg)
