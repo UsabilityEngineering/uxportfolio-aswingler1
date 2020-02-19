@@ -11,4 +11,4 @@
 
 ### My first journal entry
 
-[this is my first journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/)
+[this is my first journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-01)
