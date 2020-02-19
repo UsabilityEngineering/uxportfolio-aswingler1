@@ -12,3 +12,5 @@ One simple solution for this problem is to use one of the several unused buttons
 
 
 ![safeway gas station](https://fastly.4sqi.net/img/general/600x600/2002771_ZghW1kb761V3LLRAK8LrLVuCklVtedADPcJ1iLJ_CX0.jpg)
+
+![club card](https://i.colnect.net/f/5225/765/Safeway-Club.jpg)
