@@ -6,3 +6,9 @@ Earlier this week I needed to put gas in my car and decided to use the Safeway g
 seemules: I think this interaction fails on the **efficient**, **error tolerant** and **satisfying** aspects. When I have to cancel the transaction half way through and start it over because I forgot to enter my club card number before I did anything else it is not efficient, error tolerant or satisfying at all. Effieciency is ruined by having to restart every time. And it is not error tolerant since the only way to correct my error is to start from the beginning. And lastly, it is certainly not satisfying at all. Nothing about pumping gas is plesant so having to spend even more time doing it doesn't feel good.
 
 One simple solution for this problem is to use one of the several unused buttons on the terminals keypad and some of the empty space on its screen to allow for the customer to select a button and then enter their club card at any point up until they start pumping gas. This would bring it more in line with the software running on the terminals in the store that are used for food purchases. 
+
+
+
+
+
+![safeway gas station](https://www.savingadvice.com/wp-content/uploads/2015/09/Safeway-RC-Featured.jpg)
