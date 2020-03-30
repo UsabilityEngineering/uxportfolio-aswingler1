@@ -1,5 +1,5 @@
-#Contactless Payment During the Pandemic
-##Albert Swingler. March 29, 2020
+# Contactless Payment During the Pandemic
+## Albert Swingler. March 29, 2020
 
 I guess I go to Safeway a lot since this journal entry is also about an experience I had at Safeway but this time it was in the store rather than at the pump. As we are all trying our best these days to avoid contact with other people and commonly touched items, I decided to use Apple Pay when I went to Safeway this weekend in order to avoid having to exchange cash with the employee at the register and touch the payment terminal as little as possible. Because my credit/debit card information is on my watch I am able to hold that near the terminal when it is time to pay to complete the transaction.
 
