@@ -12,3 +12,8 @@
 ### My first journal entry
 
 [this is my first journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-01)
+
+
+### Journal Entry Number two
+
+[this is my second journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-02)
