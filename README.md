@@ -9,11 +9,16 @@
 
 ## UX Journal
 
-### My first journal entry
+### My First Journal Entry
 
 [this is my first journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-01)
 
 
-### Journal Entry Number two
+### Journal Entry Number Two
 
 [this is my second journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-02)
+
+
+### Journal Entry Number Three
+
+[this is my third journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-04)
