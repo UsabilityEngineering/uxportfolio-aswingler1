@@ -21,4 +21,4 @@
 
 ### Journal Entry Number Three
 
-[this is my third journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-04)
+[this is my third journal entry](https://usabilityengineering.github.io/uxportfolio-aswingler1/journal-03)
