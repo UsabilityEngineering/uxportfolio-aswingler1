@@ -10,4 +10,5 @@ In conclusion I finally got my airpods fixed but it took so much longer than it 
 
 ![airpods with left one missing](../assets/DuuwK6pVYAAXqCP.jpg)
 
+![viewing airpods firmware version](../assets/airpods-firmware-update-100824657-large.jpg)
 
