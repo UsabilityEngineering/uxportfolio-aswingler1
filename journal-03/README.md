@@ -8,6 +8,6 @@ The issue I ran into now was that my original right airpod and the replacement l
 In conclusion I finally got my airpods fixed but it took so much longer than it should have and it was so ridiculous and wasteful for them to send me an airpod incompatible with my existing one. Hopefully in the future Apple will be more transparent with the sofware on their accessories because preventing the user from preforming a software update doesn't help anyone.
 
 
-![airpods with left one missing)(https://github.com/UsabilityEngineering/uxportfolio-aswingler1/blob/master/assets/DuuwK6pVYAAXqCP.jpg)
+![airpods with left one missing)(https://pbs.twimg.com/media/DuuwK6pVYAAXqCP?format=jpg&name=large)
 
 
